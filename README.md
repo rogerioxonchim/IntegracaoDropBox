@@ -10,14 +10,14 @@ Projeto de integração com o DropBox
 - Na aba Permissions 
 - Marcar todas as opções
 <div>
-<img align="right" src="https://github.com/rogerioxonchim/images/blob/main/DropBox01.PNG" width="400" heigth="400" style="max-width:100%;">
+<img align="right" src="https://github.com/rogerioxonchim/images/blob/main/DropBox01.PNG" width="300" heigth="400" style="max-width:100%;">
 </div>
 </br>
 <div>
-<img align="right" src="https://github.com/rogerioxonchim/images/blob/main/DropBox02.PNG" width="400" heigth="400" style="max-width:100%;">
+<img align="right" src="https://github.com/rogerioxonchim/images/blob/main/DropBox02.PNG" width="300" heigth="400" style="max-width:100%;">
 </div>
 </br>
 <div>
-<img align="right" src="https://github.com/rogerioxonchim/images/blob/main/DropBox03.PNG" width="400" heigth="400" style="max-width:100%;">
+<img align="right" src="https://github.com/rogerioxonchim/images/blob/main/DropBox03.PNG" width="300" heigth="400" style="max-width:100%;">
 </div>
 
