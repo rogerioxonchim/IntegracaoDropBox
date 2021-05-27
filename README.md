@@ -11,5 +11,7 @@ Projeto de integração com o DropBox
 - Marcar todas as opções
 
 <img align="right" src="https://github.com/rogerioxonchim/images/blob/main/DropBox01.PNG" style="max-width:100%;">
+</br>
 <img align="right" src="https://github.com/rogerioxonchim/images/blob/main/DropBox02.PNG" style="max-width:100%;">
+</br>
 <img align="right" src="https://github.com/rogerioxonchim/images/blob/main/DropBox03.PNG" style="max-width:100%;">
