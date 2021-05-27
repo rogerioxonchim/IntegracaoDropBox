@@ -20,7 +20,7 @@ public class ConfiguracaoDropBox {
 
     private static final Logger logger = LogManager.getLogger(ConfiguracaoDropBox.class);
 
-    private static final String ACCESS_TOKEN = "x6zR7TtKf28AAAAAAAAAAWQIyvdZpoEcA8GqyDI0iegEo8jIo0BsYetB6GJXTdYN";
+    private static final String ACCESS_TOKEN = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
     public DbxClientV2 configuracao() {
         try {
